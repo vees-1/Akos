@@ -1,15 +1,20 @@
-## Why "Akos"?
+# Akos: Multimodal Edge AI for Rare Disease Triage
 
-The name **Akos** was chosen to reflect the technical sophistication of our architecture and the human-centric goal of our mission.
+[![Azure](https://img.shields.io/badge/Azure-Foundry-blue)](https://azure.microsoft.com/en-us/products/ai-foundry)
+[![Model](https://img.shields.io/badge/Model-Phi--3%20Mini-orange)](https://azure.microsoft.com/en-us/products/phi-3)
+[![Status](https://img.shields.io/badge/Status-Imagine%20Cup%202026-brightgreen)](https://imaginecup.microsoft.com/)
 
-* **Etymological Roots**: In Ancient Greek, *ákos* (ἄκος) translates to *"remedy," "cure," or "healing"*. This is the foundation of our mission: providing a fundamental medical remedy to underserved regions.
+**Akos** is an offline-first, agentic health system designed to bring life-saving rare disease diagnostics to the world's most remote areas. By leveraging **Small Language Models (SLMs)** on the edge and **Autonomous Agents** in the cloud, Akos solves the "connectivity gap" that renders traditional telemedicine useless in off-grid environments.
 
-* **Falcon-Like Precision**: In Hungarian, Akos means *"Falcon,"* symbolizing the keen vision and speed required for our image-based diagnostic AI.
+## 💡 Why "Akos"?
 
-* **Resilience in the Field**: The name represents *resilience and patience*, reflecting our "Offline-First" design that ensures life-saving triage continues even when the digital grid fails.
+We chose the name **Akos** because it represents our mission to bring smart, reliable healthcare to everyone, everywhere.
 
-* **The Agentic Mandate**: As we move into the *Agentic Era*, Akos represents a shift from passive data collection to active intervention—acting as a digital remedy that perceives, reasons, and executes care for patients in remote areas.
+* **The Meaning of "Cure"**: In Ancient Greek, Akos (ἄκος) translates to "remedy," "cure," or "healing". This is the heart of our project: providing a real medical solution for those far from specialized clinics.
+* **The Vision of a Falcon**: In Hungarian, Akos means "Falcon." Much like a falcon's keen sight, our AI "sees" and identifies rare diseases with high precision through images.
+* **Built to be Tough**: The name represents resilience. We designed Akos to be "Offline-First," ensuring it stays smart and keeps working even without an internet signal.
+* **More Than a Chatbot**: In the **Agentic Era**, Akos doesn't just "talk." It is an **Agent** that perceives, reasons, and **acts**—automatically orchestrating referrals and booking appointments once a connection is found.
 
-By combining ancient wisdom with cutting-edge *Edge SLM (Phi-3)* and *Azure AI Agent* technology, Akos is more than an application; it is a resilient global remedy.
+
 
 
