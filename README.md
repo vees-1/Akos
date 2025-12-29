@@ -1,8 +1,7 @@
-# Akos: Multimodal Edge AI for Rare Disease Triage
+# Akos
 
 [![Azure](https://img.shields.io/badge/Azure-Foundry-blue)](https://azure.microsoft.com/en-us/products/ai-foundry)
 [![Model](https://img.shields.io/badge/Model-Phi--3%20Mini-orange)](https://azure.microsoft.com/en-us/products/phi-3)
-[![Status](https://img.shields.io/badge/Status-Imagine%20Cup%202026-brightgreen)](https://imaginecup.microsoft.com/)
 
 **Akos** is an offline-first, agentic health system designed to bring life-saving rare disease diagnostics to the world's most remote areas. By leveraging **Small Language Models (SLMs)** on the edge and **Autonomous Agents** in the cloud, Akos solves the "connectivity gap" that renders traditional telemedicine useless in off-grid environments.
 
