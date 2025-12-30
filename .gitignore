@@ -1,6 +1,10 @@
-# Ignore raw data files
+# Ignore all local data
 data/raw/
-*.zip
-*.tar.gz
+data/processed/
+
+# Ignore common large data formats
 *.wav
+*.jpg
+*.png
 *.json
+*.onnx
