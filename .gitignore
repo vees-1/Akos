@@ -3,6 +3,7 @@ data/raw/
 data/processed/
 
 # Ignore common large data formats
+.venv/
 *.wav
 *.jpg
 *.png
