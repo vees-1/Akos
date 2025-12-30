@@ -1,0 +1,6 @@
+# Ignore raw data files
+data/raw/
+*.zip
+*.tar.gz
+*.wav
+*.json
